@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at **https://www.linkedin.com/in/jlopezgonzalez/**
 
-- 💬 Ask me about **c++, python, tensorflow, php, sql**
+- 💬 Ask me about **any of my projects from my repositories**
 
 - 📫 How to reach me **jorge.lopez19@upr.edu**
 
