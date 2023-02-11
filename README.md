@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge López González</h1>
 <h3 align="center">A computer science graduate developer from PR</h3>
 
-- 🌱 I’m currently learning **Algorithms with AlgoExpert**
+- 🌱 I’m currently practicing for **Coding Interviews with AlgoExpert**
 
 - 👨‍💻 All of my projects are available at **https://www.linkedin.com/in/jlopezgonzalez/**
 
