@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently practicing for **Coding Interviews with AlgoExpert**
 
-- 👨‍💻 All of my projects are available at **https://www.linkedin.com/in/jlopezgonzalez/**
+- 👨‍💻 All of my projects are available at [here](https://github.com/JLopez662?tab=repositories)
 
 - 💬 Ask me about **any of my projects from my repositories**
 
-- 📫 How to reach me **jorge.lopez19@upr.edu**
+- 📫 How to reach me **jorge.lopez19@upr.edu** and **https://www.linkedin.com/in/jlopezgonzalez/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
